@@ -1,0 +1,15 @@
+td{
+    padding: 40px;
+    
+}
+.white{
+    background-color: white;
+
+}
+.black{
+    background-color: black;
+}
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+}

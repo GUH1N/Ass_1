@@ -1,0 +1,31 @@
+*{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.table
+{
+    height: 50px;
+    width: 50px;
+    
+}
+
+th
+{
+    text-align: center;
+}
+
+table,th,td
+{
+    border: 7px solid gray;
+    border-collapse: collapse;
+}
+
+#row
+{
+    border-collapse: separate;
+}
+
+th,td
+{
+    padding: 30px;
+}
